@@ -1,4 +1,4 @@
-# Graduation Project: DRL Approach for Designing the Optimal Precoder Vector and Power Allocation in MU-MISO (SNR as Input Version)
+# Graduation Project: DRL Approach for Designing the Optimal Precoder Vector and Power Allocation in MU-MISO (SNR as Input Version and Power Allocation)
 
 ## Overview
 This version of the project implements a Deep Reinforcement Learning (DRL) approach to design optimal precoder vectors and allocate power in Multi-User Multiple Input Single Output (MU-MISO) systems, incorporating Signal-to-Noise Ratio (SNR) as an input parameter.
